@@ -1,0 +1,12 @@
+# Archivos de configuración
+.env
+
+#web scraping linkedin
+config/apiKeys.py
+
+# data files
+data/formsprueba.json
+
+
+
+__pycache__/
